@@ -1,0 +1,26 @@
+{
+  "name": "developer-profile-generator",
+  "version": "1.0.0",
+  "description": "A command-line application that dynamically generates a PDF profile from a GitHub username ## Assignment Details: ## Unit 09 Node.js and ES6+ Homework: Developer Profile Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamestankersley/profileGenerator.git"
+  },
+  "author": "jamestankersley",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.1",
+    "convert-html-to-pdf": "^1.0.1",
+    "inquirer": "^6.5.2",
+    "open": "^7.0.0",
+    "puppeteer": "^2.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/jamestankersley/profileGenerator/issues"
+  },
+  "homepage": "https://github.com/jamestankersley/profileGenerator#readme"
+}
