@@ -13,7 +13,7 @@
   "author": "jamestankersley",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.1",
+    "axios": "^0.21.1",
     "convert-html-to-pdf": "^1.0.1",
     "inquirer": "^6.5.2",
     "open": "^7.0.0",
